@@ -31,6 +31,9 @@ I allow contributions, as long as I vibe with it :p
 - <https://www.ralfj.de/blog/2020/12/14/provenance.html>
 - <https://www.ralfj.de/blog/2022/04/11/provenance-exposed.html>
 
+### Uninitialized Memory
+- <https://www.ralfj.de/blog/2019/07/14/uninit.html>
+
 ### Unfair quizzes:
 - <https://dtolnay.github.io/rust-quiz/>
 - <https://boxyuwu.github.io/rust-quiz/index.html>

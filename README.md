@@ -54,3 +54,7 @@ I allow contributions, as long as I vibe with it :p
 - <https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/> (parse, don't validate)
 - <https://sabrinajewson.org/blog/errors> (modular errors)
 - <https://fsharpforfunandprofit.com/posts/recipe-part2/> (railway oriented programming)
+
+#### Macros:
+- <https://lukaswirth.dev/tlborm/introduction.html> (The Little Book of Rust Macros)
+- <https://github.com/dtolnay/proc-macro-workshop>

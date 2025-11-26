@@ -58,3 +58,11 @@ I allow contributions, as long as I vibe with it :p
 #### Macros:
 - <https://lukaswirth.dev/tlborm/introduction.html> (The Little Book of Rust Macros)
 - <https://github.com/dtolnay/proc-macro-workshop>
+
+### For people coming from other languages:
+
+#### C#
+- <https://microsoft.github.io/rust-for-dotnet-devs/latest/introduction.html> (Rust for C#/.NET Developers)
+
+#### C++
+- <https://cel.cs.brown.edu/crp/title-page.html> (C++ to Rust Phrasebook)

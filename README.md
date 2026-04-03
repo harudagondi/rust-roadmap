@@ -64,5 +64,8 @@ I allow contributions, as long as I vibe with it :p
 #### C#
 - <https://microsoft.github.io/rust-for-dotnet-devs/latest/introduction.html> (Rust for C#/.NET Developers)
 
+#### Java
+- <https://chrischiedo.github.io/rust-for-java-devs/introduction.html> (Rust for Java Developers)
+
 #### C++
 - <https://cel.cs.brown.edu/crp/title-page.html> (C++ to Rust Phrasebook)
